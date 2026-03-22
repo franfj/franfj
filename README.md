@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Fran+Rodrigo" alt="Typing SVG" />
+## 👋 Hey, I'm Fran Rodrigo
 
 <br/>
 
