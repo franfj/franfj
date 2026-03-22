@@ -12,13 +12,7 @@
 
 </div>
 
----
-
 <div align="center">
-
-*"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
 
