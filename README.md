@@ -5,7 +5,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/franrodrigo.es-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white)](https://franrodrigo.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franrodrigo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fran-rodrigo)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franfj)
 ![Visitors](https://komarev.com/ghpvc/?username=franfj&style=for-the-badge&color=6C63FF)
 
